@@ -1,0 +1,101 @@
+{
+  "anime": [
+    {
+      "id": "2",
+      "judul": "ATTACK ON TITAN",
+      "image": "https://i0.wp.com/doublesama.com/wp-content/uploads/2018/10/Attack-on-Titan-Season-3-Part-1-Cover.jpg?resize=640%2C960",
+      "sinopsis": "Shingeki no Kyojin, yang diterbitkan di Indonesia dengan judul Attack on Titan, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Hajime Isayama.",
+      "pengarang": "9/10",
+      "tahun_terbit": "Fantasy",
+      "id_kategori": "Hajime Isayama",
+      "releaseYear": "2013"
+    },
+    {
+      "id": "3",
+      "judul": "KAKEGURUI",
+      "image": "https://i.pinimg.com/736x/a8/77/f4/a877f4ab447c22eab51eb558778e1e14.jpg",
+      "sinopsis": "Kakegurui adalah serial anime Jepang yang diadaptasi dari manga dengan judul yang sama yang ditulis oleh Homura Kawamoto dan diilustrasikan oleh Tōru Naomura. Serial televisi anime dianimasikan oleh MAPPA. Itu ditayangkan dari Juli hingga September 2017 di Tokyo MX, MBS, dan saluran lainnya.",
+      "pengarang": "11/10",
+      "tahun_terbit": "Thriller",
+      "id_kategori": "Tōru Naomura",
+      "releaseYear": "2017"
+    },
+    {
+      "id": "4",
+      "judul": "ONE PIECE",
+      "image": "https://cdn.idntimes.com/content-images/duniaku/post/20230220/one-piece-volume-105-2-05bd40d6290b55484fee28b5c946b5a9.jpg",
+      "sinopsis": "One Piece adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Eiichiro Oda. Manga ini telah dimuat di majalah Weekly Shōnen Jump milik Shueisha sejak tanggal 22 Juli 1997, dan telah dibundel menjadi 105 volume tankōbon hingga Maret 2023. Ceritanya mengisahkan petualangan Monkey D.",
+      "pengarang": "9,5/10",
+      "tahun_terbit": "Adventure",
+      "id_kategori": "Eiichiro Oda",
+      "releaseYear": "1997"
+    },
+    {
+      "id": "81b1",
+      "judul": "SK8",
+      "image": "https://i.pinimg.com/736x/31/26/ef/3126ef6b815350c8f026f542981c10a2.jpg",
+      "sinopsis": "Saat Langa mengikuti temannya, Reki, ke sebuah pegunungan di mana 'S', ajang balapan skateboard rahasia digelar, ia pun mendpati dirinya terhanyut ke dalam dunia yang baru ditemukannya.",
+      "pengarang": "8/10",
+      "tahun_terbit": "Sport",
+      "id_kategori": "Atsuhiro Iwakami",
+      "releaseYear": "2021"
+    },
+    {
+      "id": "bcb2",
+      "judul": "FAIRY TAIL",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_FMjpg_UX1000_.jpg",
+      "sinopsis": "Fairy Tail adalah sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Hiro Mashima. Manga ini dimuat berseri dalam majalah Weekly Shōnen Magazine sejak bulan Agustus 2006 hingga Juli 2017, dan telah diterbitkan menjadi 63 volume tankōbon oleh Kodansha.",
+      "pengarang": "8,5/10",
+      "tahun_terbit": "Fantasy",
+      "id_kategori": "Hiro Mashima",
+      "releaseYear": "2006"
+    },
+    {
+      "id": "8076",
+      "judul": "HUNTER X HUNTER",
+      "image": "https://cdns.klimg.com/kapanlagi.com/p/005hunterxhunter2011xxkeyxkfqcgdeqxvynja1af8c65c73ebb766f.jpg",
+      "sinopsis": "Hunter × Hunter adalah sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Yoshihiro Togashi. Manga ini mulai dimuat dalam majalah Weekly Shōnen Jump sejak tanggal 16 Maret 1998, meskipun sering kali mengalami hiatus berkepanjangan sejak tahun 2006.",
+      "pengarang": "9/10",
+      "tahun_terbit": "Fantasy",
+      "id_kategori": "Yoshihiro Togashi",
+      "releaseYear": "1998"
+    },
+    {
+      "id": "324e",
+      "judul": "BLACK CLOVER",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "sinopsis": "Black Clover adalah sebuah seri manga shōnen bertahun_terbit fantasi asal Jepang yang ditulis dan diilustrasikan oleh Yūki Tabata. Ceritanya mengisahkan tentang seorang anak laki-laki bernama Asta yang lahir tanpa kekuatan sihir, suatu fenomena yang tidak normal di dunia tempatnya tinggal.",
+      "pengarang": "7/10",
+      "tahun_terbit": "Fantasy",
+      "id_kategori": "Yūki Tabata",
+      "releaseYear": "2015"
+    },
+    {
+      "judul": "SPY X FAMILY",
+      "image": "https://galleryamh2home.files.wordpress.com/2020/02/fdcuaxsagaarkca.jpeg",
+      "id": "d10e"
+    },
+    {
+      "id": "5016",
+      "judul": "HAIKYUU!!",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkyNDI2MTgtN2Y3NS00M2RjLWJhNDMtMmNmZmUwMDQwZTE1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "sinopsis": "Haikyu!!, yang diterbitkan di Indonesia dengan judul Haikyu!! Fly High! Volleyball!, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Haruichi Furudate. Bab-bab tunggalnya telah dimuat dalam majalah Weekly Shōnen Jump sejak bulan Februari 2012 hingga Juli 2020.",
+      "pengarang": "10/10",
+      "tahun_terbit": "Sport",
+      "id_kategori": "Haruichi Furudate",
+      "releaseYear": "2012"
+    }
+  ],
+  "nama_kategori": [
+    {
+      "id": "1a74",
+      "judul": "UPIN & IPIN",
+      "image": "https://cf.geekdo-images.com/gD8Q_Qn9JkGnaIZf_8jEQA__itemrep/img/8s2EZlDdflO4g4dEs34pzWgQAV8=/fit-in/246x300/filters:strip_icc()/pic7673173.png",
+      "sinopsis": "Upin & Ipin adalah sebuah serial televisi animasi nama_kategori anak-anak Malaysia yang dirilis pada tanggal 14 September 2007 yang ditayangkan di TV9, RTM2, MNCTV dan Kids TV, serta melalui layanan video streaming Disney+ Hotstar dan Netflix. Serial ini yang diproduksi oleh Les' Copaque Production.",
+      "pengarang": "9/10",
+      "tahun_terbit": "Adventure",
+      "id_kategori": "Muhammad Usamah Zaid Yasin",
+      "releaseYear": "2007"
+    }
+  ]
+}

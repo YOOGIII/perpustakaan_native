@@ -1,0 +1,165 @@
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IT-Class 09\Desktop\react_kelompok\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\BATCH_6_IT_YFI\GO_OJT\react_native\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GO_OJT\master_12\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\GO_OJT\master_12\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
